@@ -1,0 +1,189 @@
+@media(max-width:1925px) {
+	
+}
+
+@media(max-width:1605px) {
+  
+}
+
+@media(max-width:1445px) {
+	
+}
+
+@media(max-width:1370px) {
+    
+}
+
+@media(max-width:1290px) {
+	
+}
+
+@media(max-width:1210px) {
+    
+}
+
+@media(max-width:1080px) {
+    nav>div>ul>li {
+        margin-right: 2.5rem
+    }
+}
+
+@media(max-width:1035px) {
+    header,
+    .sticky-menu {
+        display: none !important
+    }
+    .rspn-hdr {
+        display: block
+    }
+    .toggle {
+        padding-right: 0
+    }
+    
+    
+}
+
+@media(min-width:995px) and (max-width:1080px) {}
+
+@media(max-width:995px) {
+   
+}
+
+@media(max-width:850px) {
+    
+    .res-row {
+        overflow-x: auto
+    }
+    .res-row>.row {
+        flex-wrap: nowrap
+    }
+	
+	.text-slider{
+		top: 5%;
+	}
+	.floating{
+		border: 8px solid #f5bf23;
+		height: 320px;
+		width: 200px;
+	}
+	p{
+		font-size: 14px;
+	}
+	
+	
+	h1{
+		font-size: 2.3rem;
+	}
+    
+}
+
+@media(max-width:770px) {
+     .btn{
+		width: 150px;
+	}
+}
+
+@media(max-width:767px) {
+   	.footer-cta{
+		display: none;
+	}
+}
+
+@media(max-width:730px) {
+    .rspn-cnt {
+        display: none
+    }
+	.display-res{
+		display: none;
+	}
+	.footer-cta{
+		display: none;
+	}
+	.img-size-1{
+		width: 100px;
+	}
+	.footer-logo{
+		margin-bottom: 15px;
+	}
+	.text-slider{
+		top: 5%;
+	}
+	
+}
+
+@media(max-width:576px) {
+    .res-row>.row div[class^=col] {
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+	.cta-text h4{
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+	.h2-change{
+		font-size: 34px;
+	}
+	.h2-change-1{
+		font-size: 34px;
+	}
+	section{
+		padding: 10px 0px;
+	}
+	.padding-res{
+		padding: 0% 5%;
+	}
+}
+
+@media(max-width:490px) {
+	h1{
+		font-size: 1rem;
+	}
+	
+	.floating{
+		display: none;
+	}
+	
+	h6{
+		font-size: 12px;
+	}
+	.img-size{
+		width: 40px;
+	}
+	.center-res{
+		text-align: left;
+		width: 200px;
+	}
+	h4{
+		font-size: 16px;
+	}
+	
+	
+}
+
+@media(max-width:470px) {}
+
+@media(max-width:430px) {}
+
+@media(max-width:380px) {
+    .rsnp-mnu {
+        right: -100%;
+        max-width: 100%
+    }
+    .rsnp-mnu.slidein {
+        right: 0
+    }
+	.text-slider{
+		top: 0%;
+	}
+	p{
+		font-size: 10px;
+	}
+	.floating{
+		display: none;
+	}
+	
+	h1{
+		font-size: 1rem;
+	}
+
+}
