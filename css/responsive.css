@@ -81,6 +81,9 @@
      .btn{
 		width: 150px;
 	}
+	.contact-page-section .inner-container{
+		box-shadow: none;
+	}
 }
 
 @media(max-width:767px) {
@@ -108,6 +111,9 @@
 	.text-slider{
 		top: 5%;
 	}
+	.bg-image-4{
+		padding: 60px 0px;
+	}
 	
 }
 
@@ -124,13 +130,16 @@
 		font-size: 34px;
 	}
 	.h2-change-1{
-		font-size: 34px;
+		font-size: 24px;
 	}
 	section{
 		padding: 10px 0px;
 	}
 	.padding-res{
 		padding: 0% 5%;
+	}
+	.border-1{
+		display: none;
 	}
 }
 
