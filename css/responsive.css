@@ -114,6 +114,9 @@
 	.bg-image-4{
 		padding: 60px 0px;
 	}
+	.d-res{
+		display: flex;
+	}
 	
 }
 
@@ -127,7 +130,7 @@
 		margin-bottom: 10px;
 	}
 	.h2-change{
-		font-size: 34px;
+		font-size: 24px;
 	}
 	.h2-change-1{
 		font-size: 24px;
@@ -140,6 +143,27 @@
 	}
 	.border-1{
 		display: none;
+	}
+	.card-header{
+		padding: 0;
+	}
+	.contact{
+		margin: 0px 0px 30px;
+	}
+	.contact-page-section{
+		padding: 50px 0px;
+	}
+	.contact-page-section .form-column .inner-column{
+		padding: 10px 20px;
+	}
+	.sec-title {
+		padding-bottom: 10px;
+	}
+	.modal-content{
+		width: 95%;
+	}
+	.close{
+		top: -25px;
 	}
 }
 
@@ -184,15 +208,16 @@
 	.text-slider{
 		top: 0%;
 	}
-	p{
-		font-size: 10px;
-	}
+
 	.floating{
 		display: none;
 	}
 	
 	h1{
 		font-size: 1rem;
+	}
+	.service-tab-nav li a{
+		padding: 10px;
 	}
 
 }
