@@ -1,5 +1,7 @@
 @media(max-width:1925px) {
-	
+	section{
+		padding: 0px;
+	}
 }
 
 @media(max-width:1605px) {
@@ -74,7 +76,20 @@
 	h1{
 		font-size: 2.3rem;
 	}
-    
+	.img-size{
+		width: 50px;
+	}
+	.border-1{
+		border: none;
+		padding: 0px; 
+	}
+	.service-tab-nav li a{
+		padding: 20px;
+	}
+	.we-offer-area.text-center .item{
+		padding: 25px;
+		border-bottom: 2px solid #121a37;
+	}
 }
 
 @media(max-width:770px) {
@@ -83,6 +98,9 @@
 	}
 	.contact-page-section .inner-container{
 		box-shadow: none;
+	}
+	.h2-change{
+		font-size: 32px;
 	}
 }
 
@@ -165,6 +183,9 @@
 	.close{
 		top: -25px;
 	}
+	.container_menu_iso .menu_iso li a{
+		padding: 12px;
+	}
 }
 
 @media(max-width:490px) {
@@ -189,7 +210,9 @@
 	h4{
 		font-size: 16px;
 	}
-	
+	.testimonial_section .about_content .layer_content .section_title h2{
+		font-size: 32px;
+	}
 	
 }
 
