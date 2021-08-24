@@ -90,6 +90,9 @@
 		padding: 25px;
 		border-bottom: 2px solid #121a37;
 	}
+	.testimonials-1 li{
+		height: 250px;
+	}
 }
 
 @media(max-width:770px) {
@@ -186,6 +189,20 @@
 	.container_menu_iso .menu_iso li a{
 		padding: 12px;
 	}
+	.testimonials-1 li {
+		width: 90%;
+		margin: auto;
+		display: block;
+		margin-top: 70px;
+	}
+	
+	.testimonials-1 li:first-child {
+		margin-top: 50px;
+	}
+	.testimonials-1 li{
+		height: 220px;
+	}
+	
 }
 
 @media(max-width:490px) {
@@ -241,6 +258,9 @@
 	}
 	.service-tab-nav li a{
 		padding: 10px;
+	}
+	.testimonials-1 li{
+		height: 250px;
 	}
 
 }
