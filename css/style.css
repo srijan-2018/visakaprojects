@@ -24,6 +24,9 @@
 .text-color1 {
     color: var(--color1)
 }
+.font-size{
+	font-size: 15px;
+}
 
 body,
 html {
@@ -429,7 +432,7 @@ nav>div ul ul {
     position: absolute;
     left: 0;
     top: 100%;
-    min-width: 15rem;
+    min-width: 17rem;
     line-height: initial;
     opacity: 0;
     visibility: hidden;
