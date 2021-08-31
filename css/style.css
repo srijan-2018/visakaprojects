@@ -2686,8 +2686,10 @@ img.mfp-img {
     text-align: left;
     line-height: 18px;
     color: #f3f3f3;
+	font-size: 28px;
     word-wrap: break-word;
-    padding-right: 36px;
+    padding-left: 20px;
+	text-transform: capitalize;
 }
 .mfp-image-holder .mfp-content {
     max-width: 100%}
@@ -2754,6 +2756,14 @@ img.mfp-img {
     padding-right: 6px;
 }
 }
+
+.img_iso h6{position: absolute;
+ top:80%;
+ padding-left: 10px;
+ font-weight: 500;
+ color: #D5D5D5;
+}
+
 /*gallery*/
 
 /*************career details page*************/
