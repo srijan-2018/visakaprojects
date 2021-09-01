@@ -2551,6 +2551,7 @@ button::-moz-focus-inner {
     line-height: 18px;
     white-space: nowrap;
 	padding-right: 15px;
+	padding-top: 10px; 
 }
 .mfp-arrow {
     position: absolute;
@@ -2677,7 +2678,7 @@ img.mfp-img {
 .mfp-bottom-bar {
     margin-top: -36px;
     position: absolute;
-    top: 100%;
+    top: 95%;
     left: 0;
     width: 100%;
     cursor: auto;
@@ -2690,6 +2691,8 @@ img.mfp-img {
     word-wrap: break-word;
     padding-left: 20px;
 	text-transform: capitalize;
+	padding: 10px;
+	background-color: rgba(18,26,55,0.5);
 }
 .mfp-image-holder .mfp-content {
     max-width: 100%}
@@ -2758,10 +2761,15 @@ img.mfp-img {
 }
 
 .img_iso h6{position: absolute;
- top:80%;
+ top:70%;
  padding-left: 10px;
  font-weight: 500;
- color: #D5D5D5;
+ color: #fff;
+}
+
+.background-text{
+	padding: 10px 0px 10px 10px; 
+	background-color: rgba(18,26,55,0.5);
 }
 
 /*gallery*/
